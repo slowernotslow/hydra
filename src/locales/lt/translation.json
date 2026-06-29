@@ -1230,37 +1230,37 @@
     "scan_games_no_results_description": "No installed games were found"
   },
   "system_tray": {
-    "open": "Open Hydra",
-    "quit": "Quit"
+    "open": "Atidaryti Hydra",
+    "quit": "Išeiti"
   },
   "game_card": {
-    "available_one": "Available",
-    "available_other": "Available",
-    "no_downloads": "No downloads available",
-    "calculating": "Calculating"
+    "available_one": "Yra",
+    "available_other": "Yra",
+    "no_downloads": "Nėra prieinamų atsisiuntimų",
+    "calculating": "Skaičiuojama"
   },
   "binary_not_found_modal": {
-    "title": "Programs not installed",
-    "description": "umu-run or Wine executables were not found on your system",
-    "instructions": "Install umu-run or Wine on your Linux distro so the game installer can run"
+    "title": "Programos neįdiegtos",
+    "description": "umu-run arba Wine paleidžiamieji failai nebuvo rasti jūsų sistemoje",
+    "instructions": "Įdiekite umu-run arba Wine ant savo Linux sistemos, kad žaidimo diegimo programa galėtų pasileisti"
   },
   "modal": {
-    "close": "Close button"
+    "close": "Užverti"
   },
   "classics_onboarding": {
-    "title": "Welcome to Hydra Classics",
-    "step1_heading": "Meet Hydra Classics",
-    "step1_body": "Your PS1, PS2 and PS3 library, organized, matched, and ready to launch. Hydra Classics turns your ROM folders into a clean catalogue with covers, metadata, and one-click play.",
-    "step2_heading": "Bring your own ROMs",
-    "step2_body": "Hydra doesn't host, download, or distribute ROMs or BIOS files. Point us at the folders where you keep your games, that's it. Your files stay on your machine.",
-    "step3_heading": "Launch, play, sync",
-    "step3_body": "Hydra Classics works with DuckStation, PCSX2 and RPCS3. Launch any matched game in one click. PS2 players on Hydra Cloud can even back up memory cards across devices.",
-    "next": "Next",
-    "explore": "Explore",
-    "dont_show_again": "Don't show again"
+    "title": "Sveiki atvykę į Hydra Classics",
+    "step1_heading": "Susipažinkite su Hydra Classics",
+    "step1_body": "Jūsų PS1, PS2 ir PS3 biblioteka, organizuota, suderinta ir paruošta paleidimui. Hydra Classics paverčia jūsų ROM aplankus į tvarkingą katalogą su viršeliais, metaduomenims ir paleidimu vienu paspaudimu.",
+    "step2_heading": "Naudokite savo turimus ROM failus",
+    "step2_body": "Hydra nelaiko, nesiunčia ir neplatina ROM ar BIOS failų. Tiesiog nurodykite mums aplankus, kuriuose laikote savo žaidimus, ir viskas. Jūsų failai lieka jūsų įrenginyje.",
+    "step3_heading": "Paleiskite, žaiskite, sinchronizuokite",
+    "step3_body": "Hydra Classics veikia su DuckStation, PCSX2 ir RPCS3. Paleiskite bet kurį atpažintą žaidimą vienu spustelėjimu. PS2 žaidėjai, naudojantys Hydra Cloud, gali netgi kurti atminties kortelių atsargines kopijas skirtinguose įrenginiuose.",
+    "next": "Toliau",
+    "explore": "Naršyti",
+    "dont_show_again": "Daugiau nerodyti"
   },
   "forms": {
-    "toggle_password_visibility": "Toggle password visibility"
+    "toggle_password_visibility": "Perjungti slaptažodžio matomumą"
   },
   "user_profile": {
     "amount_hours": "{{amount}} valandos",
